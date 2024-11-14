@@ -1,0 +1,50 @@
+#Output
+
+
+
+1.How many elements are there in the periodic table? 
+A.116
+B.117
+C.118
+D.119
+Enter your choice (A,B,C,D):c
+Correct
+--------------------
+2.Which animal lays the largest eggs? 
+A.Ostrich
+B.Whale
+3.Crocodile
+4.Elephant
+Enter your choice (A,B,C,D):a
+Correct
+--------------------
+3.What is the most abundant gas in the Earth's atmosphere? 
+A.Nitrogen
+B.Oxygen
+C.Carbon-dioxide
+4.Hydrogen
+Enter your choice (A,B,C,D):a
+Correct
+--------------------
+4.How many bones are there in human body? 
+A,207
+B.300
+C.205
+D.206
+Enter your choice (A,B,C,D):d
+Correct
+--------------------
+Which planet in the solar system is the hottest?
+A.Mercury
+B.Venus
+C.Earth
+D.Mars
+Enter your choice (A,B,C,D):d
+Incorrect
+Correct answer is B
+--------------------
+Answers are C A A D B --------------------
+Guesses are C A A D D --------------------
+--------------------
+Your Result is:
+Your score is 80%
